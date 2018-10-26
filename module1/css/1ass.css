@@ -1,0 +1,72 @@
+
+*
+{
+box-sizing: border-box;
+}
+
+body
+{
+	margin:0;
+}
+
+.main_heading h2
+{
+	text-align: center;
+	margin-bottom: 5%;	
+	margin-top: 5%;
+}
+.box_container
+{
+	text-align: center;
+	margin-left:3%;
+	margin-right:3%;
+
+}
+
+.float
+{
+	float:right;
+	background: red;
+	padding:3px 40px;
+	border-left:1.5px solid black;
+	border-bottom:1.5px solid black;}
+
+
+.box
+{
+	display:inline-block;
+	background:#c1c1c1;
+	width:30%;
+	margin-right:3%;
+	border:1.5px solid black;
+	text-align: left;
+}
+
+.box_content
+{
+	clear:right;
+	padding:10px;
+}
+
+.box3
+{
+	margin-right: 0px;
+}
+
+.chicken
+{
+	background:pink;
+	color: black;
+}
+
+.beef
+{
+	background:red;
+	color: white;
+}
+
+.sushi
+{
+	background:gold;
+	color: black;
+}
